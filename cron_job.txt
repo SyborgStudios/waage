@@ -1,0 +1,1 @@
+*/5 * * * * /home/pi/Dokumente/dr_schmidt_waage/update_cron.sh
